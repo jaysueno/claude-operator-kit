@@ -9,6 +9,8 @@ and one that reports, because a rule in a markdown file is a wish.
 
 ## What it does
 
+![Two lanes: before each Bash call the guard denies two destructive git commands and passes one that sits inside quotes; at session start the leftover check lists five kinds of leftover process and stops none.](docs/img/two-hooks.svg)
+
 Three kinds of files for a Claude Code setup where several sessions share one machine and
 one working tree.
 
@@ -29,6 +31,8 @@ Two hooks:
   stops anything.
 
 Six rules, each opening with the date of the mistake behind it:
+
+![A timeline from March 5 to October 4, 2026 with six dots, one per rule, each labeled with the rule name and a four-word summary of the mistake behind it, from 1,399 emails sent to real people to a laptop with memory full.](docs/img/rules-timeline.svg)
 
 | Rule | Since | What it says |
 |---|---|---|

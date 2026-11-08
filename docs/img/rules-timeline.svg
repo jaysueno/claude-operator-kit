@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+<title id="title">Each rule carries the date of its mistake</title>
+<desc id="desc">A timeline from March 5 to October 4, 2026 with six dots, one per rule, each labeled with the rule name and a four-word summary of the mistake behind it.</desc>
+<rect x="0.5" y="0.5" width="1199" height="459" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="40" y="54" font-family="Georgia, 'Playfair Display', serif" font-size="30" fill="#F2EDE2">Each rule carries the date of its mistake.</text>
+<text x="40" y="84" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">Six rules, March 5 to October 4, 2026.</text>
+<line x1="80" y1="190" x2="80" y2="226" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="582.9" y1="246" x2="582.9" y2="262" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="665.9" y1="190" x2="665.9" y2="226" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="866.1" y1="246" x2="866.1" y2="354" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="963.8" y1="190" x2="963.8" y2="226" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="1120" y1="246" x2="1120" y2="262" stroke="#D8D3CA" stroke-width="1"/>
+<line x1="80" y1="236" x2="1120" y2="236" stroke="#EDE7DC" stroke-width="2"/>
+<circle cx="80" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="60" y="128" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="start" fill="#D8D3CA">March 5</text>
+<text x="60" y="154" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="start" fill="#F2EDE2">human-go-gates</text>
+<text x="60" y="180" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="start" fill="#D8D3CA">1,399 emails, real people</text>
+<circle cx="582.9" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="582.9" y="284" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D8D3CA">June 16</text>
+<text x="582.9" y="310" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#F2EDE2">verify-the-live-object</text>
+<text x="582.9" y="336" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#D8D3CA">Pay figure from spreadsheet</text>
+<circle cx="665.9" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="665.9" y="128" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D8D3CA">July 3</text>
+<text x="665.9" y="154" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#F2EDE2">many-chats-one-tree</text>
+<text x="665.9" y="180" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#D8D3CA">Fix over uncommitted edits</text>
+<circle cx="866.1" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="866.1" y="376" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D8D3CA">August 13</text>
+<text x="866.1" y="402" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#F2EDE2">write-like-a-person</text>
+<text x="866.1" y="428" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#D8D3CA">Chatbot voice in drafts</text>
+<circle cx="963.8" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="985" y="128" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#D8D3CA">September 2</text>
+<text x="985" y="154" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="middle" fill="#F2EDE2">ask-before-shared-state-writes</text>
+<text x="985" y="180" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#D8D3CA">8,500 rows, nobody asked</text>
+<circle cx="1120" cy="236" r="10" fill="#8C5348" stroke="#EDE7DC" stroke-width="2"/>
+<text x="1160" y="284" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="end" fill="#D8D3CA">October 4</text>
+<text x="1160" y="310" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" text-anchor="end" fill="#F2EDE2">stop-what-you-start</text>
+<text x="1160" y="336" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="end" fill="#D8D3CA">Laptop hot, memory full</text>
+</svg>

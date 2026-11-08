@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="512" viewBox="0 0 1200 512" role="img" aria-labelledby="title desc">
+<title id="title">Two hooks: one blocks, one reports</title>
+<desc id="desc">Before each Bash call the guard denies two destructive git commands and passes a quoted mention; at session start the leftover check lists five kinds of leftover process and stops none.</desc>
+<rect x="0.5" y="0.5" width="1199" height="511" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="40" y="56" font-family="Georgia, 'Playfair Display', serif" font-size="30" fill="#F2EDE2">Two hooks: one blocks, one reports.</text>
+<rect x="40" y="92" width="5" height="166" fill="#8C5348"/>
+<text x="62" y="112" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#D8D3CA">BEFORE EACH BASH CALL</text>
+<text x="62" y="142" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#F2EDE2">guard-git-destructive.py</text>
+<text x="62" y="180" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Reads the command.</text>
+<text x="62" y="208" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Denies the destructive list.</text>
+<text x="62" y="236" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Passes quoted text.</text>
+<rect x="400" y="96" width="380" height="46" rx="4" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="420" y="126" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#F2EDE2">git stash; echo x</text>
+<rect x="796" y="97" width="114" height="44" rx="6" fill="#8C5348"/>
+<line x1="813" y1="111" x2="829" y2="127" stroke="#F2EDE2" stroke-width="3"/>
+<line x1="829" y1="111" x2="813" y2="127" stroke="#F2EDE2" stroke-width="3"/>
+<text x="842" y="126" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F2EDE2">DENY</text>
+<text x="928" y="126" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">starts the command</text>
+<rect x="400" y="152" width="380" height="46" rx="4" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="420" y="182" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#F2EDE2">(cd sub &amp;&amp; git reset --hard)</text>
+<rect x="796" y="153" width="114" height="44" rx="6" fill="#8C5348"/>
+<line x1="813" y1="167" x2="829" y2="183" stroke="#F2EDE2" stroke-width="3"/>
+<line x1="829" y1="167" x2="813" y2="183" stroke="#F2EDE2" stroke-width="3"/>
+<text x="842" y="182" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F2EDE2">DENY</text>
+<text x="928" y="182" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">after &amp;&amp;</text>
+<rect x="400" y="208" width="380" height="46" rx="4" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="420" y="238" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="20" fill="#F2EDE2">echo &quot;git reset --hard&quot;</text>
+<rect x="796" y="209" width="114" height="44" rx="6" fill="#59591D"/>
+<polyline points="811,231 818,238 831,223" fill="none" stroke="#F2EDE2" stroke-width="3"/>
+<text x="842" y="238" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" font-weight="700" fill="#F2EDE2">PASS</text>
+<text x="928" y="238" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">inside quotes</text>
+<line x1="40" y1="284" x2="1160" y2="284" stroke="#D8D3CA" stroke-width="1"/>
+<rect x="40" y="300" width="5" height="190" fill="#59591D"/>
+<text x="62" y="322" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#D8D3CA">AT SESSION START</text>
+<text x="62" y="352" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="21" font-weight="700" fill="#F2EDE2">leftover-check.py</text>
+<text x="62" y="390" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Lists what was left running.</text>
+<text x="62" y="418" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Never stops anything.</text>
+<text x="62" y="446" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="19" fill="#D8D3CA">Silent on a clean machine.</text>
+<text x="400" y="322" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">What past sessions left running:</text>
+<rect x="400" y="340" width="181" height="40" rx="20" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="490.5" y="366" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#F2EDE2">hidden browsers</text>
+<rect x="595" y="340" width="210" height="40" rx="20" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="700" y="366" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#F2EDE2">orphan dev servers</text>
+<rect x="819" y="340" width="220" height="40" rx="20" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="929" y="366" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#F2EDE2">endless shell loops</text>
+<rect x="400" y="394" width="309" height="40" rx="20" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="554.5" y="420" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#F2EDE2">Docker Desktop open for days</text>
+<rect x="723" y="394" width="319" height="40" rx="20" fill="#001B3B" stroke="#EDE7DC" stroke-width="1"/>
+<text x="882.5" y="420" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" text-anchor="middle" fill="#F2EDE2">Claude sessions open for days</text>
+<text x="400" y="476" font-family="-apple-system, 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="18" fill="#D8D3CA">Output: nothing at all, or a short list the session relays in one line.</text>
+</svg>
